@@ -4,7 +4,7 @@
 
 - 👨‍💻 estudante na Generation Brasil
 
-- 🔭 estou desenvolvendo um projeto Ecommerce [DaTerra](https://github.com/ProjetoIntegradorG3/ProjetoIntegrador.git)
+- 🔭 estou desenvolvendo um projeto Ecommerce [DaTerra](https://github.com/ProjetoIntegradorG3/daterra-frontend)
 
 - 📫 como me encontrar **juliagalibarroso@gmail.com**
 
