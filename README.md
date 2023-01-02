@@ -1,10 +1,8 @@
 <h1 align="center">Olá 👋, sou a Julia</h1>
-<h3 align="center">desenvolvedora Java Junior 👨‍💻</h3>
+<h3 align="center">desenvolvedora junior 👨‍💻</h3>
 
 
-- 👨‍💻 estudante na Generation Brasil
-
-- 🔭 estou desenvolvendo um projeto Ecommerce [DaTerra](https://github.com/ProjetoIntegradorG3/daterra-frontend)
+- 👨‍💻 formada em desenvolvimento web pela Generation Brasil
 
 - 📫 como me encontrar **juliagalibarroso@gmail.com**
 
